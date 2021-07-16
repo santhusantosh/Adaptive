@@ -3,6 +3,7 @@
   <groupId>activity_management_NAPCIP</groupId>
   <artifactId>activity_management_NAPCIP</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
   <build>
     <sourceDirectory>WEB-INF/classes</sourceDirectory>
     <resources>
