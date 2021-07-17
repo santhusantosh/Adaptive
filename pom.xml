@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>activity_management_NAPCIP</groupId>
   <artifactId>activity_management_NAPCIP</artifactId>
-  <packaging>war<packaging/>
+  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <build>
     <sourceDirectory>WEB-INF/classes</sourceDirectory>
